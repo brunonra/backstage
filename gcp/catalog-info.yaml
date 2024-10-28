@@ -3,6 +3,7 @@ kind: Component
 metadata:
   name: gcp-content
   annotations:
+    backstage.io/techdocs-ref: value
     github.com/project-slug: brunonra/backstage
 spec:
   type: other
